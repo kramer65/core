@@ -123,4 +123,4 @@ Vagrantfile
 clover.xml
 
 # IDE
-.idea
+.idea/
